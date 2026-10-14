@@ -42,11 +42,14 @@ Buy online (Stripe checkout): https://buy.stripe.com/eVqdR98AY8BKgMWcfAgYU00
   A: Yes. It's month-to-month. Cancel anytime and you owe nothing further.
 - Q: Is there a page for plumbing shops?
   A: Yes — https://nevermiss.northbeambuilds.com/for-plumbers/ covers missed-call text-back for plumbers, what a customer gets when a call rings out on a job, and a calculator that uses the shop's own missed calls and average ticket. Same price: $199 setup + $99/month.
+- Q: Is there a page for HVAC companies?
+  A: Yes — https://nevermiss.northbeambuilds.com/for-hvac/ covers missed-call text-back for HVAC companies, what a customer gets when a no-heat or no-cooling call rings out while the techs are on other jobs, and a calculator that uses the company's own missed calls and average ticket. Same price: $199 setup + $99/month.
 
 ## Links
 
 - Home: https://nevermiss.northbeambuilds.com/
 - For plumbers (missed-call text-back for plumbing shops, with a fill-in calculator that uses the shop's own missed calls and average ticket): https://nevermiss.northbeambuilds.com/for-plumbers/
+- For HVAC (missed-call text-back for HVAC companies, with a fill-in calculator that uses the company's own missed calls and average ticket): https://nevermiss.northbeambuilds.com/for-hvac/
 - Pricing: https://nevermiss.northbeambuilds.com/pricing/
 - FAQ: https://nevermiss.northbeambuilds.com/faq/
 - Contact: https://nevermiss.northbeambuilds.com/contact/
