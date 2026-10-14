@@ -1,0 +1,59 @@
+# Never-Miss-a-Lead
+
+> Never-Miss-a-Lead replies to missed calls, website forms, and after-hours messages in under a minute and puts every lead in one inbox. $199 one-time setup + $99/month — $298 first month total, then $99/month, month-to-month.
+
+Never-Miss-a-Lead is a product by Northbeam Builds, a small studio in Austin, TX that builds websites and AI tools for local service businesses. Company site: https://northbeambuilds.com
+
+## What it is
+
+When a customer calls and nobody picks up, or fills out a website form at 9pm, they get a reply within a minute instead of silence — and every inquiry lands in one inbox for the owner. It follows up after a missed call or message, by text; it does not answer the phone live by voice.
+
+## Who it is for
+
+For: local service businesses that miss calls and after-hours inquiries while out on jobs.
+Not for: businesses that want a voice answering calls live (that is the AI Phone Receptionist) — Never-Miss-a-Lead follows up by text after the missed call.
+
+## Price
+
+$199 one-time setup + $99/month. First month total: $298. Month-to-month, no long-term contract. Cancel anytime and you owe nothing further.
+Buy online (Stripe checkout): https://buy.stripe.com/eVqdR98AY8BKgMWcfAgYU00
+
+## How it works
+
+1. One short call: we collect your hours, services, and where leads should go.
+2. We build it; you test it on your own phone; then it goes live.
+3. Every missed call, form fill, and after-hours message gets a reply in under a minute and lands in one inbox. If a customer replies with a hard question, it is flagged to you right away.
+
+## Questions and answers
+
+- Q: How fast is “instant”?
+  A: Under a minute, day or night.
+- Q: What do I have to do?
+  A: One short call. We collect your hours, services, and where leads should go. We build it, you test it on your own phone, then it goes live.
+- Q: What does the first month cost, in total?
+  A: $298 total: the $199 one-time setup plus $99 for the first month of service. After that it's $99/month, month-to-month.
+- Q: What if the customer replies with a hard question?
+  A: The reply starts the conversation and captures the details. Anything real gets flagged to you right away — you take it from there.
+- Q: Does it answer my phone live?
+  A: No. Never-Miss-a-Lead follows up after a missed call or message, by text. If you want a voice to pick up the call itself, see the AI Phone Receptionist (https://northbeambuilds.com/tools/ai-phone-receptionist/) from Northbeam Builds.
+- Q: Can I cancel?
+  A: Yes. It's month-to-month. Cancel anytime and you owe nothing further.
+
+## Links
+
+- Home: https://nevermiss.northbeambuilds.com/
+- Pricing: https://nevermiss.northbeambuilds.com/pricing/
+- FAQ: https://nevermiss.northbeambuilds.com/faq/
+- Contact: https://nevermiss.northbeambuilds.com/contact/
+- Concept demos (not clients): https://northbeambuilds.com/demos/roof-squad/ and https://northbeambuilds.com/demos/plumber-dallas/
+
+## Contact
+
+Email: northbeambuilds@gmail.com (a person replies within one business day)
+
+## Other Northbeam Builds products
+
+- [Website FAQ & Lead Capture Agent](https://faqagent.northbeambuilds.com/) — a website chat box that answers questions and captures leads
+- [Website + Online Booking](https://booking.northbeambuilds.com/) — a website customers can book on
+- [AI Chatbot](https://chatbot.northbeambuilds.com/) — custom chat answers in more places than a website
+- [AI Phone Receptionist](https://receptionist.northbeambuilds.com/) — a voice that answers your phone when you can’t
