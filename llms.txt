@@ -1,6 +1,6 @@
 # Never-Miss-a-Lead
 
-> Never-Miss-a-Lead replies to missed calls, website forms, and after-hours messages in under a minute and puts every lead in one inbox. $199 one-time setup + $99/month — $298 first month total, then $99/month, month-to-month.
+> Never-Miss-a-Lead replies in under a minute on one intake channel to start: missed calls, website forms, or after-hours messages — whichever costs you more jobs. Every lead lands in one inbox. $199 one-time setup + $99/month — $298 first month total, then $99/month, month-to-month.
 
 Never-Miss-a-Lead is a product by Northbeam Builds, a small studio in Austin, TX that builds websites and AI tools for local service businesses. Company site: https://northbeambuilds.com
 
@@ -16,13 +16,14 @@ Not for: businesses that want a voice answering calls live (that is the AI Phone
 ## Price
 
 $199 one-time setup + $99/month. First month total: $298. Month-to-month, no long-term contract. Cancel anytime and you owe nothing further.
+Guarantee: live by the date we agree, or your setup fee comes back in full.
 Buy online (Stripe checkout): https://buy.stripe.com/eVqdR98AY8BKgMWcfAgYU00
 
 ## How it works
 
 1. A short setup form — about five minutes, most of it pre-filled for you to check: your hours, services, and where leads should go.
 2. We build it; you test it on your own phone; then it goes live.
-3. Every missed call, form fill, and after-hours message gets a reply in under a minute and lands in one inbox. If a customer replies with a hard question, it is flagged to you right away.
+3. On the channel you start with, every inquiry gets a reply in under a minute and lands in one inbox. If a customer replies with a hard question, it is flagged to you right away.
 
 ## Questions and answers
 
