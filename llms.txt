@@ -48,6 +48,8 @@ Buy online (Stripe checkout): https://buy.stripe.com/eVqdR98AY8BKgMWcfAgYU00
   A: Yes — https://nevermiss.northbeambuilds.com/for-roofers/ covers missed-call text-back for roofing companies, what a customer gets when a leak or storm-damage call rings out while the crews are on roofs, and a calculator that uses the company's own missed calls and average ticket. Same price: $199 setup + $99/month.
 - Q: Is there a page for electrical companies?
   A: Yes — https://nevermiss.northbeambuilds.com/for-electricians/ covers missed-call text-back for electrical companies, what a customer gets when a no-power call rings out while the crew is on another job, and a calculator that uses the company's own missed calls and average ticket. Same price: $199 setup + $99/month.
+- Q: Is there a page for pest control companies?
+  A: Yes — https://nevermiss.northbeambuilds.com/for-pest-control/ covers missed-call text-back for pest control companies, what a customer gets when a scorpion call rings out while the tech is on a route, and a calculator that uses the company's own missed calls and average ticket. Same price: $199 setup + $99/month.
 
 ## Links
 
@@ -56,6 +58,7 @@ Buy online (Stripe checkout): https://buy.stripe.com/eVqdR98AY8BKgMWcfAgYU00
 - For HVAC (missed-call text-back for HVAC companies, with a fill-in calculator that uses the company's own missed calls and average ticket): https://nevermiss.northbeambuilds.com/for-hvac/
 - For roofers (missed-call text-back for roofing companies, with a fill-in calculator that uses the company's own missed calls and average ticket): https://nevermiss.northbeambuilds.com/for-roofers/
 - For electricians (missed-call text-back for electrical companies, with a fill-in calculator that uses the company's own missed calls and average ticket): https://nevermiss.northbeambuilds.com/for-electricians/
+- For pest control (missed-call text-back for pest control companies, with a fill-in calculator that uses the company's own missed calls and average ticket): https://nevermiss.northbeambuilds.com/for-pest-control/
 - Pricing: https://nevermiss.northbeambuilds.com/pricing/
 - FAQ: https://nevermiss.northbeambuilds.com/faq/
 - Contact: https://nevermiss.northbeambuilds.com/contact/
