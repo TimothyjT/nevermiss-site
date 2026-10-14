@@ -54,6 +54,8 @@ Buy online (Stripe checkout): https://buy.stripe.com/eVqdR98AY8BKgMWcfAgYU00
   A: Yes — https://nevermiss.northbeambuilds.com/for-garage-doors/ covers missed-call text-back for garage door companies, what a customer gets when a broken-spring call rings out while the crew is on another job, and a calculator that uses the company's own missed calls and average ticket. Same price: $199 setup + $99/month.
 - Q: Is there a page for cleaning companies?
   A: Yes — https://nevermiss.northbeambuilds.com/for-cleaning/ covers missed-call text-back for cleaning companies, what a customer gets when a move-out call rings out while the crew is in a customer's home, and a calculator that uses the company's own missed calls and average ticket. Same price: $199 setup + $99/month.
+- Q: Is there a page for salons or med spas?
+  A: Yes — https://nevermiss.northbeambuilds.com/for-salons/ covers missed-call text-back for salons and med spas, what a client gets when a Saturday call rings out while the owner is with another client, and a calculator that uses the business's own missed calls and average ticket. Same price: $199 setup + $99/month.
 
 ## Links
 
@@ -65,6 +67,7 @@ Buy online (Stripe checkout): https://buy.stripe.com/eVqdR98AY8BKgMWcfAgYU00
 - For pest control (missed-call text-back for pest control companies, with a fill-in calculator that uses the company's own missed calls and average ticket): https://nevermiss.northbeambuilds.com/for-pest-control/
 - For garage doors (missed-call text-back for garage door companies, with a fill-in calculator that uses the company's own missed calls and average ticket): https://nevermiss.northbeambuilds.com/for-garage-doors/
 - For cleaning (missed-call text-back for cleaning companies, with a fill-in calculator that uses the company's own missed calls and average ticket): https://nevermiss.northbeambuilds.com/for-cleaning/
+- For salons and med spas (missed-call text-back for salons and med spas, with a fill-in calculator that uses the business's own missed calls and average ticket): https://nevermiss.northbeambuilds.com/for-salons/
 - Pricing: https://nevermiss.northbeambuilds.com/pricing/
 - FAQ: https://nevermiss.northbeambuilds.com/faq/
 - Contact: https://nevermiss.northbeambuilds.com/contact/
