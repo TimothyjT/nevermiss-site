@@ -22,7 +22,7 @@ Buy online (Stripe checkout): https://buy.stripe.com/eVqdR98AY8BKgMWcfAgYU00
 
 ## How it works
 
-1. A short setup form — about five minutes, most of it pre-filled for you to check: your hours, services, and where leads should go.
+1. A short setup form — about five minutes. You fill it in yourself — nothing is pre-filled; many answers are quick picks from a list: your hours, services, and where leads should go.
 2. We build it; you test it on your own phone; then it goes live.
 3. On the channel you start with, every inquiry gets a reply in under a minute and lands in one inbox. If a customer replies with a hard question, it is flagged to you right away.
 
@@ -31,7 +31,7 @@ Buy online (Stripe checkout): https://buy.stripe.com/eVqdR98AY8BKgMWcfAgYU00
 - Q: How fast is “instant”?
   A: Under a minute, day or night.
 - Q: What do I have to do?
-  A: A short setup form — about five minutes, most of it pre-filled for you to check. It collects your hours, services, and where leads should go. We build it, you test it on your own phone, then it goes live. Text replies need a carrier registration (A2P) that takes 2–5 business days; the email path goes live right away.
+  A: A short setup form — about five minutes. You fill it in yourself — nothing is pre-filled; many answers are quick picks from a list. It collects your hours, services, and where leads should go. We build it, you test it on your own phone, then it goes live. Text replies need a carrier registration (A2P) that takes 2–5 business days; the email path goes live right away.
 - Q: What does the first month cost, in total?
   A: $298 total: the $199 one-time setup plus $99 for the first month of service. After that it's $99/month, month-to-month.
 - Q: What if the customer replies with a hard question?
