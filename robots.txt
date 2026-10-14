@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nevermiss.northbeambuilds.com/sitemap.xml
