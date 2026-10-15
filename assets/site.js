@@ -85,6 +85,18 @@
           var t = raw.toLowerCase();
           if (/(discount|coupon|promo|% off|percent off|special offer|deal you|you offered|sale price)/.test(t)) { addMsg(DISCOUNT, 'bot'); defaultChips(); return; }
           if (t === 'get started' || /\b(get started|sign me up|sign up|i'm interested|im interested|i am interested|book a|request a)\b/.test(t)) { startCapture(); return; }
+          // Routing follow-up (NM-S4 residual, Quality delta 2026-10-15 ~01:11): a question
+          // asking what a treatment or other end-service costs ("How much does a facial
+          // treatment cost?") is not a question about Northbeam's prices. It must not
+          // receive the product price list, and no service price is invented either -
+          // the honest fallback answers it, like any other out-of-scope question.
+          // Questions naming a Northbeam product, and bare price questions, still
+          // route to PRICES below.
+          if (/(price|pricing|cost|how much|\\$)/.test(t)
+            && !/(never.?miss|faq|lead capture|booking|chatbot|receptionist|website|web site|\btools?\b|\bagents?\b|plan|subscription|set ?up|northbeam)/.test(t)
+            && (/\b(facials?|treatments?|massages?|haircuts?|manicures?|pedicures?|wax(?:es|ing)?|lash(?:es)?|brows?|highlights?|balayage|perms?|braids?|shaves?|grooming|sessions?)\b/.test(t)
+              || /how much (?:does|is|for) (?:a|an|the) /.test(t)
+              || /(?:cost|price) of (?:a|an|the) /.test(t))) { addMsg(FALLBACK, 'bot'); setChips(['Get started', 'Prices', 'What do the tools do?', 'How it works']); return; }
           if (/(price|pricing|cost|how much|\\$)/.test(t)) { addMsg(PRICES, 'bot'); defaultChips(); return; }
           if (/(how it works|how does it work|process|how long|timeline|set ?up time|steps)/.test(t)) { addMsg(HOW, 'bot'); defaultChips(); return; }
           if (/(what do the tools do|what.*tools|tools do|never-miss|never miss|faq|lead capture|booking|chatbot|phone receptionist|receptionist|services|offer)/.test(t)) { addMsg(TOOLS, 'bot'); defaultChips(); return; }
